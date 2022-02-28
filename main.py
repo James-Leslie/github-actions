@@ -1,8 +1,8 @@
-import numpy as np
-import pandas as pd
+def add_two(a, b):
+    '''Adds two numbers together'''
+    return a + b
 
 
-print(np.__version__)
-print(pd.__version__)
-
-print('hello world')
+def multiply_two(a, b):
+    '''Multiplies two numbers together'''
+    return a * b
