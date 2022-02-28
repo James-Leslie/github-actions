@@ -3,6 +3,8 @@ channels:
   - defaults
 dependencies:
   - python=3.8
+  - flake8
+  - pytest
   - numpy
   - pandas
 prefix: C:\Users\James\miniconda3\envs\github-actions
