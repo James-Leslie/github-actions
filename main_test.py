@@ -7,4 +7,4 @@ def test_add():
 
 def test_multiply():
     assert multiply_two(2, 2) == 4
-    assert multiply_two(2, 3) == 5
+    assert multiply_two(2, 3) == 6
